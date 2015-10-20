@@ -594,12 +594,12 @@ nav .nav>li>a:hover, nav .nav>li>a:focus, nav .nav .open>a, nav .nav .open>a:hov
 
 .bx-wrapper .bx-prev {
 	left: -40px;
-	background: url(../images/left-arrow.png) no-repeat;
+	background: url(|IMAGESRC|/left-arrow.png) no-repeat;
 }
 
 .bx-wrapper .bx-next {
 	right: -40px;
-	background: url(../images/right-arrow.png) no-repeat;
+	background: url(|IMAGESRC|/right-arrow.png) no-repeat;
 }
 
 .bx-wrapper .bx-prev:hover {
@@ -637,7 +637,7 @@ nav .nav>li>a:hover, nav .nav>li>a:focus, nav .nav .open>a, nav .nav .open>a:hov
 	width: 10px;
 	height: 11px;
 	outline: 0;
-	background: url(../images/controls.png) -86px -11px no-repeat;
+	background: url(|IMAGESRC|/controls.png) -86px -11px no-repeat;
 	margin: 0 3px;
 }
 
@@ -653,7 +653,7 @@ nav .nav>li>a:hover, nav .nav>li>a:focus, nav .nav .open>a, nav .nav .open>a:hov
 	height: 11px;
 	outline: 0;
 	margin: 0 3px;
-	xbackground-image: url(../images/controls.png);
+	xbackground-image: url(|IMAGESRC|/controls.png);
 	background-repeat: no-repeat;
 	xbackground-position: -86px -44px;
 }
@@ -959,7 +959,7 @@ input[type=radio].css-checkbox:checked + label.css-label {
 	background-position: 0 -24px;
 }
 label.css-label {
-	background-image: url(../images/radio_bg.png);
+	background-image: url(|IMAGESRC|/radio_bg.png);
 	background-color:#67a3c8;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
